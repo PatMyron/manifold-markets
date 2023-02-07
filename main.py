@@ -5,4 +5,4 @@ output = []
 while response:
   output.extend(response)
   response = requests.get(url + '&before=' + response[-1]['id']).json()
-print(output)
+print(json.dumps(output, indent=1))
