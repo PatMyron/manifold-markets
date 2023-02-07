@@ -1,3 +1,4 @@
+import json
 import requests
 url = 'https://manifold.markets/api/v0/markets?limit=1000'
 response = requests.get(url).json()
