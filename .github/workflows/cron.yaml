@@ -1,0 +1,20 @@
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Enables on-demand/manual triggering
+jobs:
+  job:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3
+      - run: |
+          pip install -q requests
+          python main.py
+      - uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: market update
+          title: market update
+          delete-branch: true
