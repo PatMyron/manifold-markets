@@ -12,7 +12,7 @@ jobs:
           python-version: 3
       - run: |
           pip install -q requests
-          python main.py
+          python main.py | jq . > markets.json
       - uses: peter-evans/create-pull-request@v3
         with:
           commit-message: market update
