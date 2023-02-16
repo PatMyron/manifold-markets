@@ -15,6 +15,7 @@ jobs:
           python main.py | jq . > all.json
           python open.py | jq . > open.json
           python extreme.py | jq . > extreme.json
+          python losses.py | jq . > losses.json
       - uses: peter-evans/create-pull-request@v3
         with:
           commit-message: market update
