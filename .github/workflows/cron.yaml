@@ -12,10 +12,10 @@ jobs:
           python-version: 3
       - run: |
           pip install -q requests
-          python main.py | jq . > all.json
-          python open.py | jq . > open.json
-          python extreme.py | jq . > extreme.json
-          python losses.py | jq . > losses.json
+          python src/main.py | jq . > all.json
+          python src/open.py | jq . > open.json
+          python src/extreme.py | jq . > extreme.json
+          python src/losses.py | jq . > losses.json
       - uses: peter-evans/create-pull-request@v3
         with:
           commit-message: market update
