@@ -12,7 +12,7 @@ jobs:
           python-version: 3
       - run: |
           pip install -q requests
-          python src/main.py | jq . > all.json
+          python src/all.py | jq . > all.json
           python src/open.py | jq . > open.json
           python src/extreme.py | jq . > extreme.json
           python src/losses.py | jq . > losses.json
