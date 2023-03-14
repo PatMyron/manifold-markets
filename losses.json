@@ -1,0 +1,461 @@
+[
+  {
+    "id": "v5mf79iV4CPdJsDKTYeTUDaM2P12",
+    "createdTime": 1675289131673,
+    "name": "Khaos",
+    "username": "Khaos",
+    "url": "https://manifold.markets/Khaos",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/AEdFTp4IspuZZf1psADML9jVW7xqE-nOlXC_NsuqhO_exw=s96-c",
+    "balance": 9528.872957942513,
+    "totalDeposits": 33420,
+    "profitCached": {
+      "monthly": -7036.788138956552,
+      "daily": 94.54927226819927,
+      "weekly": 237.76395232513823,
+      "allTime": -17685.175258816587
+    }
+  },
+  {
+    "id": "WBFIWMJDf6bMfYWDSP7LMf8F00e2",
+    "createdTime": 1673307295132,
+    "name": "Limiter",
+    "username": "Limiter",
+    "url": "https://manifold.markets/Limiter",
+    "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FLimiter%2FmrC8N_r6BD.55?alt=media&token=fc920d0a-b357-4f53-8814-c2f8dc310656",
+    "bio": "",
+    "website": "",
+    "balance": 0.6291658068016659,
+    "totalDeposits": 40377.5961195385,
+    "profitCached": {
+      "weekly": 0,
+      "monthly": 0,
+      "daily": 0,
+      "allTime": -40376.9669537317
+    }
+  },
+  {
+    "id": "ZB5wm6TsZbfYNWOoAWIjDpzjEz72",
+    "createdTime": 1671002122204,
+    "name": "Mira",
+    "username": "Mira",
+    "url": "https://manifold.markets/Mira",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/AEdFTp77Pl94fzmBvwxTPgQ_k3Mo7xGmkWCjCIKOggb7NA=s96-c",
+    "balance": 486.6665035464567,
+    "totalDeposits": 172841.4279343005,
+    "profitCached": {
+      "weekly": 8019.103361768182,
+      "allTime": -144896.84893219874,
+      "daily": -1114.0016989297292,
+      "monthly": 11313.396697215096
+    }
+  },
+  {
+    "id": "11naQMjQ29fzF6xtKVOz8559uew1",
+    "createdTime": 1670790770940,
+    "name": "Evil",
+    "username": "Evil",
+    "url": "https://manifold.markets/Evil",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/AEdFTp5kynAqCzKHTx4zgNoj4_7bGVlaLTwDj8fyd8hi=s96-c",
+    "balance": 24934.56958372215,
+    "totalDeposits": 70585,
+    "profitCached": {
+      "daily": 57.43826002658898,
+      "monthly": 16.609906045909156,
+      "allTime": -45570.73005537754,
+      "weekly": 15.25325057667942
+    }
+  },
+  {
+    "id": "xeEiqNnOhkgHOCc6FQWEGRP6WL63",
+    "createdTime": 1669990093521,
+    "name": "Norman",
+    "username": "Norman",
+    "url": "https://manifold.markets/Norman",
+    "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FNorman%2FXf4rppjlMH.PNG?alt=media&token=3ba13931-ba22-4025-a6ca-8be5068e00a6",
+    "balance": -103.02107473944073,
+    "totalDeposits": 22160,
+    "profitCached": {
+      "daily": 0.07987855278042844,
+      "weekly": 0.07987855278042844,
+      "allTime": -22253.555244508334,
+      "monthly": 1.3815624590461084
+    }
+  },
+  {
+    "id": "XzeS8vkUpQOec65vy1Trmgnhz5V2",
+    "createdTime": 1668446058124,
+    "name": "Daily Reward",
+    "username": "dailyreward",
+    "url": "https://manifold.markets/dailyreward",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/ALm5wu14U1cwoAXxyVoYzA6lLgCVS7HfyNeHoUgMHQeu=s96-c",
+    "balance": 544.8424752765025,
+    "totalDeposits": 18198.16790594347,
+    "profitCached": {
+      "allTime": -17653.325430666966,
+      "daily": 0,
+      "monthly": 0,
+      "weekly": 0
+    }
+  },
+  {
+    "id": "WNqWTc8uzGZs5CHQlbL7myNdLJu1",
+    "createdTime": 1668231648905,
+    "name": "nmwood _",
+    "username": "nmwood_",
+    "url": "https://manifold.markets/nmwood_",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/ALm5wu2KOteOLTPsnSZA68SUJWWVH8V1ZrvaS22ALblm=s96-c",
+    "balance": -435.99056189909834,
+    "totalDeposits": 20242.999078735113,
+    "profitCached": {
+      "monthly": -0.5543275162635837,
+      "allTime": -20617.909025058452,
+      "weekly": -0.12868994169912185,
+      "daily": 0
+    }
+  },
+  {
+    "id": "Nl0MTfnQIsRMqnuoyS0P9FL3ZZd2",
+    "createdTime": 1668213709936,
+    "name": "GappyV",
+    "username": "GappyV",
+    "url": "https://manifold.markets/GappyV",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/ALm5wu0VTRi9hmD4A69oltYv-RFHKbwnN3_sLdxIrUbN=s96-c",
+    "discordHandle": "Gappy#9999",
+    "balance": 250.18522596435287,
+    "totalDeposits": 19718.296382152155,
+    "profitCached": {
+      "monthly": 2776.9681630158775,
+      "daily": 0,
+      "weekly": 0,
+      "allTime": -19468.111156187802
+    }
+  },
+  {
+    "id": "wDBYhUbkEXVWOdvIpkXSs712u9o2",
+    "createdTime": 1668213561002,
+    "name": "Lifejacker",
+    "username": "Lifejacker",
+    "url": "https://manifold.markets/Lifejacker",
+    "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FLifejacker%2Fuhmqgej6KA.jpg?alt=media&token=1f93aecc-f20d-41f1-94f0-c0fe63e428e9",
+    "balance": 30217.168944104207,
+    "totalDeposits": 51704.571365124575,
+    "profitCached": {
+      "allTime": -20943.185234621,
+      "weekly": -105.27850173511979,
+      "daily": 14.64330970438823,
+      "monthly": 905.5236236416968
+    }
+  },
+  {
+    "id": "JpanZsXz3AS4GCGfTw5XUU3omjH2",
+    "createdTime": 1668129840693,
+    "name": "PryingMind",
+    "username": "PryingMind",
+    "url": "https://manifold.markets/PryingMind",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/ALm5wu3_6Qwjb0VcwEHtUmAtmXb4AjEbbdUJBbSiBWwE=s96-c",
+    "balance": 1011.9462467071279,
+    "totalDeposits": 46251.08783502436,
+    "profitCached": {
+      "daily": -3.2198849404085195,
+      "weekly": 171.3773480742966,
+      "monthly": -5304.919236768888,
+      "allTime": -42080.67679867556
+    }
+  },
+  {
+    "id": "VhzAVw1rbZb3qKRDhva7ad9gZT53",
+    "createdTime": 1667351800780,
+    "name": "thesourceofsound",
+    "username": "thesourceofsound",
+    "url": "https://manifold.markets/thesourceofsound",
+    "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fthesourceofsound%2FFvTHFQ9cSe.jpg?alt=media&token=bf3415a5-1dbe-4aad-ac58-26279aa89ce0",
+    "bio": "",
+    "balance": -3734.797141551714,
+    "totalDeposits": 13407.112190631196,
+    "profitCached": {
+      "allTime": -16692.41033392219,
+      "weekly": -6.394780275597441,
+      "daily": -1.642482380168076,
+      "monthly": -19.789527957222163
+    }
+  },
+  {
+    "id": "dhPxCZ3om1cnrS3vrvqRTT9wpwj1",
+    "createdTime": 1666809432014,
+    "name": "dgg4life",
+    "username": "dgg4life",
+    "url": "https://manifold.markets/dgg4life",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/ALm5wu0cl9W_jtIc65nUZvn008LXYBvT6wDWcmmulTyZ=s96-c",
+    "balance": -29295.244985655023,
+    "totalDeposits": 56948.9218396243,
+    "profitCached": {
+      "allTime": -86214.02676376697,
+      "monthly": 180.99026227349532,
+      "weekly": 0,
+      "daily": 0
+    }
+  },
+  {
+    "id": "flSHQ6wvpYU7W5V32WzOPnz8lyI3",
+    "createdTime": 1666749753442,
+    "name": "Dani Qin",
+    "username": "DaniQin",
+    "url": "https://manifold.markets/DaniQin",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/ALm5wu2LCuvyJJOzPRg8uZHd-5WLb6NvEJtjm_ifaiVm=s96-c",
+    "bio": "I'm here for the memes",
+    "balance": 5600.326718393597,
+    "totalDeposits": 37556.27828902064,
+    "profitCached": {
+      "daily": -67.75115079675743,
+      "monthly": 225.4697553748847,
+      "weekly": 69.79282574593162,
+      "allTime": -25314.69070371525
+    }
+  },
+  {
+    "id": "E9LuuLjMVjXR0UB5xvPN8QVQyBq1",
+    "createdTime": 1664034072025,
+    "name": "Tase Xaviera",
+    "username": "TaseXaviera",
+    "url": "https://manifold.markets/TaseXaviera",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/ALm5wu3qodWMBAKvjHAEcNtyvI3sNP8wS0zGxNdKS2ko=s96-c",
+    "balance": -553002.0568633212,
+    "totalDeposits": 239080.0503781526,
+    "profitCached": {
+      "weekly": 0,
+      "allTime": -792082.1072414739,
+      "daily": 0,
+      "monthly": 0
+    }
+  },
+  {
+    "id": "KX1Q1P7uLaNhLJ7w6J8IMuFP3f62",
+    "createdTime": 1664033784669,
+    "name": "Altansarnai Håvard",
+    "username": "AltansarnaiHavard",
+    "url": "https://manifold.markets/AltansarnaiHavard",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/ALm5wu20vSlN69cI3mu2x1HJuypyd3xOUc_xo3frNPVP=s96-c",
+    "balance": -1278787.153618838,
+    "totalDeposits": 523376.72851515055,
+    "profitCached": {
+      "weekly": 0,
+      "daily": 0,
+      "allTime": -1802163.8821339884,
+      "monthly": 0
+    }
+  },
+  {
+    "id": "bPchhM9LYqeYL7N73zxFY0GN6zG2",
+    "createdTime": 1664033099642,
+    "name": "Anthony Lawson",
+    "username": "AnthonyLawson",
+    "url": "https://manifold.markets/AnthonyLawson",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/ALm5wu0WNtuyEdIifwFYVfu8zBHaDF_R162-KoOnpUFx=s96-c",
+    "balance": -838065.0786662004,
+    "totalDeposits": 307634,
+    "profitCached": {
+      "monthly": 0,
+      "daily": 0,
+      "weekly": 0,
+      "allTime": -1145699.0786662004
+    }
+  },
+  {
+    "id": "ROD5rQPuU6WeIfmmtUV5OfIKv393",
+    "createdTime": 1657492227795,
+    "name": "Shantanu Jha",
+    "username": "ShantanuJha",
+    "url": "https://manifold.markets/ShantanuJha",
+    "avatarUrl": "https://lh3.googleusercontent.com/a-/AFdZucpD7ubz7YfhaoULu8FusgoMXaopuMHFAfytLoEYDg=s96-c",
+    "balance": -3006.4695790104242,
+    "totalDeposits": 13980,
+    "profitCached": {
+      "weekly": 41.63090652671963,
+      "daily": 0.45775321149267256,
+      "monthly": 42.880268232409435,
+      "allTime": -16782.77348377072
+    }
+  },
+  {
+    "id": "Q6JVSQgtRHVsWCd1fuWmwuXt92E3",
+    "createdTime": 1657332782707,
+    "name": "Nicola Wilson",
+    "username": "njmkw",
+    "url": "https://manifold.markets/njmkw",
+    "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FDDelapore%2FA7BE7A47-C7BF-48CE-BBC2-685F99E72F65.jpeg?alt=media&token=340aa74c-cceb-4509-be12-2a05b9a967a2",
+    "balance": 6666.940272267863,
+    "totalDeposits": 23712.845128016314,
+    "profitCached": {
+      "monthly": -1393.1735324651072,
+      "weekly": -1133.0041111645605,
+      "allTime": -15799.14835170915,
+      "daily": -138.6323394816227
+    }
+  },
+  {
+    "id": "2yOabPl25lVcBzhZZMX4NX8RqtC2",
+    "createdTime": 1652113901289,
+    "name": "Law of Good Hearts",
+    "username": "PeterBerggrenf455",
+    "url": "https://manifold.markets/PeterBerggrenf455",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/AATXAJziqd1Y54a94I5ooDDGtlpWdPR7hZM2f_aFr9A=s96-c",
+    "balance": 1002.3398001450569,
+    "totalDeposits": 30907.66849524289,
+    "profitCached": {
+      "daily": 0,
+      "weekly": 0,
+      "monthly": 0,
+      "allTime": -29905.328695097836
+    }
+  },
+  {
+    "id": "uglwf3YKOZNGjjEXKc5HampOFRE2",
+    "createdTime": 1650599919735,
+    "name": "SirSalty",
+    "username": "DavidChee",
+    "url": "https://manifold.markets/DavidChee",
+    "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FDavidChee%2F0RWPBopmEJ.gif?alt=media&token=8e4fc012-c769-4157-8370-9be97cec0fa9",
+    "bio": "Community Manager for Manifold Markets",
+    "website": "",
+    "twitterHandle": "hs_sirsalty",
+    "discordHandle": "SirSalty#5770",
+    "balance": 27223.92625696967,
+    "totalDeposits": 59451.98299975794,
+    "profitCached": {
+      "weekly": 274.1810643172357,
+      "monthly": -2790.095119973841,
+      "allTime": -26463.755927669736,
+      "daily": -691.7476442461702
+    }
+  },
+  {
+    "id": "jOl1FMKpFbXkoaDGp2qlakUxAiJ3",
+    "createdTime": 1646261443620,
+    "name": "Spindle",
+    "username": "Spindle",
+    "url": "https://manifold.markets/Spindle",
+    "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FSpindle%2F0h4bgwcJrr.JPG?alt=media&token=6a4e3deb-36e9-48df-9669-a627f99c07a6",
+    "bio": "That wasn't very cash money of you",
+    "balance": 45679.49997207182,
+    "totalDeposits": 231042.83285795504,
+    "profitCached": {
+      "allTime": -178785.6138884723,
+      "monthly": 5608.753424651921,
+      "daily": 3281.7310692739848,
+      "weekly": 5602.898270756268
+    }
+  },
+  {
+    "id": "jn8ZKjXgwgfbwJqHRNbemA3Epw52",
+    "createdTime": 1646156303785,
+    "name": "Metaculus Bot",
+    "username": "MetaculusBot",
+    "url": "https://manifold.markets/MetaculusBot",
+    "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FMetaculusBot%2Fmetaculus.png?alt=media&token=bf8bb5f5-e1ce-4a37-886e-b88b648132f6",
+    "bio": "Run by @dglid on behalf of the Manifold Markets team. Markets resolve to match the corresponding Metaculus resolution.\n\nHave a specific Metaculus question you'd like to see created on Manifold Markets? Comment on any MetaculusBot market or contact @dglid on Twitter or Discord.",
+    "website": "https://www.metaculus.com/",
+    "twitterHandle": "",
+    "balance": 88625.39680819657,
+    "totalDeposits": 120722.11628728948,
+    "profitCached": {
+      "monthly": -580.2784072647919,
+      "daily": 2.5893536957446486,
+      "allTime": -32267.853395297818,
+      "weekly": -22.615431092126528
+    }
+  },
+  {
+    "id": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+    "createdTime": 1645484592545,
+    "name": "Brian T. Edwards",
+    "username": "BTE",
+    "url": "https://manifold.markets/BTE",
+    "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2F3KAtwhoUJ9.jpeg?alt=media&token=98c78e37-fa75-4244-9163-e4f5b1043f44",
+    "bio": "Founder at Deepvail, building a quality assurance ecosystem for high risk AI systems. Top Manifold Market Maker.",
+    "website": "https://www.deepvail.com",
+    "twitterHandle": "liquiddata",
+    "discordHandle": "LiquidData",
+    "balance": 5797.949146034594,
+    "totalDeposits": 170230.3165894169,
+    "profitCached": {
+      "monthly": -20697.41795255302,
+      "allTime": -37582.387748057925,
+      "daily": -821.1662045661069,
+      "weekly": 3888.2756986618333
+    }
+  },
+  {
+    "id": "5XMvQhA3YgcTzyoJRiNqGWyuB9k2",
+    "createdTime": 1644799031473,
+    "name": "Daniel Reeves",
+    "username": "dreev",
+    "url": "https://manifold.markets/dreev",
+    "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fdreev%2Flogo-bee_512%402.png?alt=media&token=582af185-b10c-4acd-9c68-7889ad5e22e3",
+    "bio": "Cofounder of Beeminder. Coauthor of Robin Hanson and David Pennock.",
+    "website": "http://beeminder.com",
+    "twitterHandle": "http://twitter.com/bmndr",
+    "discordHandle": "dreev",
+    "balance": 2721.3024432110706,
+    "totalDeposits": 42429.90137211004,
+    "profitCached": {
+      "monthly": 2136.6678422817276,
+      "daily": 173.61801321988605,
+      "allTime": -23344.38464583672,
+      "weekly": 1558.882361330223
+    }
+  },
+  {
+    "id": "c8b49zncxgUgRdYby9cj9HVQXoj2",
+    "createdTime": 1642285751622,
+    "name": "Dr P",
+    "username": "DrP",
+    "url": "https://manifold.markets/DrP",
+    "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FDrP%2F56E41D43-8CBF-42F1-93E8-CCD54565853C.jpeg?alt=media&token=0799ebcf-d8e5-49d7-9164-fef8613e58d0",
+    "balance": -5419.348789485932,
+    "totalDeposits": 29616.819439894898,
+    "profitCached": {
+      "monthly": -86.89215880356642,
+      "daily": -41.04913230863167,
+      "allTime": -34429.66375157434,
+      "weekly": -42.42943957931129
+    }
+  },
+  {
+    "id": "rpPhNvA397UkhNUQsVFMQEKRtyV2",
+    "createdTime": 1640898767358,
+    "name": "Robert McIntyre (gold)",
+    "username": "RLMgold",
+    "url": "https://manifold.markets/RLMgold",
+    "avatarUrl": "https://lh3.googleusercontent.com/a-/AOh14GgR1zo00WvcSPmsrxKW9c-ekFTEYJFpwd1r7TrV=s96-c",
+    "bio": "Gold Strategy -- Here I'm trying to have fun, take big risks, and generally have a good and somwhat silly time. \n\nI'm also planning on experimenting with using prediction markets to find useful information to questions, and intend to use this account to subsidize many such questions. \n\nAlso I run Nectome and work to preserve brains.",
+    "website": "http://aurellem.org",
+    "balance": 13065.045678406019,
+    "totalDeposits": 43674.659124960635,
+    "profitCached": {
+      "daily": 0,
+      "monthly": 0.0016528041887795553,
+      "allTime": -30607.53066141496,
+      "weekly": 0
+    }
+  },
+  {
+    "id": "IPTOzEqrpkWmEzh6hwvAyY9PqFb2",
+    "createdTime": 1639533990132,
+    "name": "Manifold Markets",
+    "username": "ManifoldMarkets",
+    "url": "https://manifold.markets/ManifoldMarkets",
+    "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldMarkets%2F97s_Lcavdy.png?alt=media&token=7ac882d7-6626-4934-95c9-cd9df8f7e205",
+    "bio": "The OFFICIAL Manifold Markets account!\nWe sometimes make important markets here, but right now it mostly acts as a bank for manalinks and other payments.",
+    "website": "https://manifold.markets",
+    "twitterHandle": "ManifoldMarkets",
+    "discordHandle": "https://discord.gg/VARzUpyCSa",
+    "balance": 2577232.277706031,
+    "totalDeposits": 2596144.7700696965,
+    "profitCached": {
+      "daily": 1.2702415832318366,
+      "allTime": -23455.731219451874,
+      "monthly": -18479.473942172714,
+      "weekly": -137.7527894107625
+    }
+  }
+]

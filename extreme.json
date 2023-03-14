@@ -1,0 +1,42 @@
+[
+  {
+    "id": "yhXzRpyllINGf1KY5tTW",
+    "creatorId": "4CCufgXTiCVym9SPfy4M8dNff4R2",
+    "creatorUsername": "AdrianMeier",
+    "creatorName": "Adrian Meier",
+    "createdTime": 1674511123415,
+    "creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AEdFTp5H8sb7IbsKOw-sMs4MRgwd6zYpuuSY6hz70dWf=s96-c",
+    "closeTime": 1704067140000,
+    "question": "Will Way of Water be Best Picture in 2023 ?",
+    "tags": [],
+    "url": "https://manifold.markets/AdrianMeier/will-way-of-water-be-best-picture-i",
+    "pool": {
+      "YES": 2668.811948924771,
+      "NO": 223.21841701515348
+    },
+    "probability": 0.010806115440057109,
+    "p": 0.1155216389263616,
+    "totalLiquidity": 330,
+    "outcomeType": "BINARY",
+    "mechanism": "cpmm-1",
+    "volume": 3730.91794566356,
+    "volume24Hours": 2050.9143462022316,
+    "isResolved": false,
+    "lastUpdatedTime": 1678807428554,
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Way of Water has inspired millions across the world with its magnificient CGI, but will it also convince the hearts of the comittee ?",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "textDescription": "Way of Water has inspired millions across the world with its magnificient CGI, but will it also convince the hearts of the comittee ?"
+  }
+]
