@@ -1,7 +1,6 @@
 import json
 import os
 import requests
-url = 'https://manifold.markets/api/v0/bet'
 body = {
     "contractId": "NEpTIkMlf9EZY9PBTyB3",
     "amount": 1,
@@ -11,4 +10,4 @@ body = {
 headers = {
     "Authorization": f"Key {os.getenv('API_KEY')}"
 }
-print(requests.post(url, json=body, headers=headers).json())
+print(requests.post('https://manifold.markets/api/v0/bet', json=body, headers=headers).json())
