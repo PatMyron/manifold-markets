@@ -12,13 +12,13 @@ jobs:
           python-version: 3
       - run: |
           pip install -q requests
-          python src/all.py | jq . > all.json
-          python src/open.py | jq . > open.json
-          python src/extreme.py | jq . > extreme.json
-          python src/losses.py | jq . > losses.json
-          python src/soon.py | jq . > soon.json
-          python src/whales.py | jq . > whales.json
-          python src/users.py | jq . > users.json
+          python src/all.py | jq . --tab > all.json
+          python src/open.py | jq . --tab > open.json
+          python src/extreme.py | jq . --tab > extreme.json
+          python src/losses.py | jq . --tab > losses.json
+          python src/soon.py | jq . --tab > soon.json
+          python src/whales.py | jq . --tab > whales.json
+          python src/users.py | jq . --tab > users.json
           python src/ce.py > ce.txt
           # python src/bet.py
         env:
