@@ -6,10 +6,7 @@ jobs:
   job:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: 3
+      - uses: actions/checkout@v4
       - run: |
           pip install -q requests
           python src/all.py | jq . --tab > all.json
@@ -23,7 +20,7 @@ jobs:
           # python src/bet.py
         env:
           API_KEY: ${{ secrets.API_KEY }}
-      - uses: peter-evans/create-pull-request@v3
+      - uses: peter-evans/create-pull-request@v6
         with:
           commit-message: market update
           title: market update
